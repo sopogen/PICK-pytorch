@@ -20,6 +20,6 @@ Entities_list = [
 	"bank_account",
 	"phone",
 	"email",
-	"loan_num"
-
+	"loan_num",
+	"delegate"
 ]
