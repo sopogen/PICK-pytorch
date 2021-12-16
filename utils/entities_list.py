@@ -1,21 +1,25 @@
 # -*- coding: utf-8 -*-
-# @Author: Wenwen Yu
-# @Created Time: 7/8/2020 9:34 PM
 
 Entities_list = [
-    "company",
-    "address",
-    "date",
-    "total"
-]
+	"company",
+	"company_num",
+	"name",
+	"resident_num",
+	"address",
+	"foundation_date",
+	"business_status",
+	"business_sector",
+	"date",
+	"birthday",
+	"department",
+	"position",
+	"duration-start",
+	"duration-end",
+  "income",
+	"bank",
+	"bank_account":,
+	"phone",
+	"email",
+	"loan_num",
 
-# Entities_list = [
-#     "ticket_num",
-#     "starting_station",
-#     "train_num",
-#     "destination_station",
-#     "date",
-#     "ticket_rates",
-#     "seat_category",
-#     "name"
-# ]
+]
