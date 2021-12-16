@@ -15,11 +15,11 @@ Entities_list = [
 	"position",
 	"duration-start",
 	"duration-end",
-  "income",
+	"income",
 	"bank",
-	"bank_account":,
+	"bank_account",
 	"phone",
 	"email",
-	"loan_num",
+	"loan_num"
 
 ]
