@@ -121,7 +121,7 @@
         "log_step_interval": 10,
         "val_step_interval": 100,
 
-        "save_dir": "/contents/drive/MyDrive/",
+        "save_dir": "/content/drive/MyDrive/",
         "save_period": 1,
         "log_verbosity": 2,
 
